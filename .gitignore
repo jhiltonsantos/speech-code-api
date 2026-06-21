@@ -1,9 +1,8 @@
 .venv/
-speech-code-api/.venv/
-speech-code-api/__pycache__/
-speech-code-api/chroma_data/
-speech-code-api/tmp_uploads/
-speech-code-web/node_modules/
-speech-code-web/.svelte-kit/
+__pycache__/
+chroma_data/
+tmp_uploads/
+node_modules/
+.svelte-kit/
 .env
 *.pyc
